@@ -1,0 +1,7 @@
+[
+  {"name": "Bangalore", "latitude": 12.97, "longitude": 77.59, "timezone": "Asia/Kolkata"},
+  {"name": "Mumbai",    "latitude": 19.08, "longitude": 72.88, "timezone": "Asia/Kolkata"},
+  {"name": "Delhi",     "latitude": 28.61, "longitude": 77.21, "timezone": "Asia/Kolkata"},
+  {"name": "Chennai",   "latitude": 13.08, "longitude": 80.27, "timezone": "Asia/Kolkata"},
+  {"name": "Kolkata",   "latitude": 22.57, "longitude": 88.36, "timezone": "Asia/Kolkata"}
+]
